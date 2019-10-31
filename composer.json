@@ -13,7 +13,7 @@
         "psr-0": {"": "library/"}
     },
     "require": {
-        "zendframework/zendframework1": "1.*",
+        "shardj/zf1-future": "^1.14",
         "twig/twig": "1.*"
     }
 }
